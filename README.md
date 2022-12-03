@@ -14,5 +14,3 @@ go build
 ```bash
 go test -v
 ```
-
-for testing purposes
